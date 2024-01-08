@@ -19,11 +19,11 @@ if __name__ == '__main__':
 # add two numbers
 
 x = int(input("Type a number: "))
-y = input(input("Type another number: "))
+y = int(input("Type another number: "))
 
 sum = x+y
 
-print("The sum is: ", sum)
+print("The sum is",  sum)
 
 
 
